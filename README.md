@@ -24,5 +24,4 @@
 <img src="https://raw.githubusercontent.com/luke-mccallum/threshold/master/images/preview2.0.0.jpg">
 
 ### Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luke-mccallum&count_private=true&show_icons=true&theme=radical&layout=compact" ?count_private=true alt="GitHub Stats" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-mccallum&layout=compact&langs_count=8&theme=radical" alt="Languages msandfor uses" />
