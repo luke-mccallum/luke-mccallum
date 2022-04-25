@@ -16,6 +16,7 @@
 <img align="left" alt="MatLab" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img align="left" alt="R" height="30px" src="https://www.stat.auckland.ac.nz/~paul/Reports/Rlogo/Rlogo.svg" />
 <img align="left" alt="visual studio code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br><br>
 
 ### <a href="https://github.com/luke-mccallum/threshold">Current Focus</a>
 **Currently I'm focusing on threshold, my new tab replacer for chrome, for which a preview can be seen below:**
