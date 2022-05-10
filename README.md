@@ -23,6 +23,3 @@
 ### <a href="https://github.com/luke-mccallum/threshold">Current Focus</a>
 **Currently I'm focusing on threshold, my new tab replacer for chrome, for which a preview can be seen below:**
 <img src="https://raw.githubusercontent.com/luke-mccallum/threshold/master/images/preview2.0.0.jpg">
-
-### Statistics
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-mccallum&layout=compact&langs_count=8&theme=radical" alt="Languages msandfor uses" />
