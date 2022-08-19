@@ -13,7 +13,7 @@
 
 ### <a href="https://github.com/luke-mccallum/threshold">Featured Project</a>
 **Currently I'm focusing on threshold, my new tab replacer for chrome, for which a preview can be seen below:**
-<img src="https://raw.githubusercontent.com/luke-mccallum/threshold/master/images/preview2.0.0.jpg">
+<img src="https://raw.githubusercontent.com/luke-mccallum/threshold/master/images/previews/preview2.2.3.gif">
 
 ### Feel free to connect with me on LinkedIn 🤝
 <a href="https://www.linkedin.com/in/luke-mccallum2/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
