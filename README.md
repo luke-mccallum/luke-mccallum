@@ -12,7 +12,8 @@
 <br><br>
 
 ### <a href="https://github.com/luke-mccallum/threshold">Featured Project</a>
-**Currently I'm focusing on threshold, my new tab replacer for chrome, for which a preview can be seen below:**
+**Recently I've officially published THRESHOLD, my homepage replacer for Google Chrome on the 
+<a href="https://chrome.google.com/webstore/detail/lgkjfdgkmggdemeoipmbfmchgaolkppl">Chrome Web Store</a>.**
 <img src="https://raw.githubusercontent.com/luke-mccallum/threshold/master/images/previews/preview2.2.3.gif">
 
 ### Feel free to connect with me on LinkedIn 🤝
