@@ -13,7 +13,7 @@
 <br><br>
 
 ### <a href="https://github.com/luke-mccallum/threshold">Featured Project</a>
-**Recently I've officially published THRESHOLD, my homepage replacer for Google Chrome on the 
+**This is THRESHOLD, my homepage replacer for Google Chrome on the 
 <a href="https://chrome.google.com/webstore/detail/lgkjfdgkmggdemeoipmbfmchgaolkppl">Chrome Web Store</a>.**
 
 <img src="https://raw.githubusercontent.com/luke-mccallum/threshold/master/images/previews/preview2.2.3.gif">
